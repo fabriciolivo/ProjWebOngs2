@@ -1,4 +1,5 @@
 Documentação Técnica: Plataforma Web para ONGs - Amigos do Planeta
+Por Fabricio Gabriedl Olivo
 
 1. Visão Geral do Projeto
 
